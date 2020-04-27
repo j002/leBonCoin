@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeBonCoin</string>
+    //FlashBar Error
+    <string name="flashbar_error_retry">Réessayer</string>
+    <string name="flashbar_becarful_no_network">\nAttention</string>
+    <string name="flashbar_message_no_network">Connexion au réseau Le Club impossible !</string>
+    <string name="flashbar_becarful_error">\nAttention</string>
+    <string name="flashbar_message_error">Nous sommes désolé une erreur s\'est produite, Veuillez réactuliser la page.</string>
+    <string name="login">Se connecter</string>
+    <string name="sign_up">Créer un compte</string>
+    <string name="en_vous_inscrivant_vous_acceptez_nos">En vous inscrivant, vous acceptez nos</string>
+    <string name="conditions_d_utilisation"><u>conditions d’utilisation.</u></string>
+</resources>
